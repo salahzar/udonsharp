@@ -26,6 +26,16 @@ Attualmente (Giugno 2021) la versione utilizzata è 2018.4.20f1
 2. 
 
 
+
+## Links e Tool utili
+
+1. Assolutamente essenziale elenco di risorse per Udon (alisl.org/udonlinks) Link per esteso: https://docs.google.com/spreadsheets/d/e/2PACX-1vTP-eIkYLZh7pDhpO-untxy1zbuoiqdzVP2z5-vg_9ijBW7k8ZC9VP6cVL-ct5yKrySPBPJ6V2ymlWS/pubhtml#
+2. Visual Studio Code https://code.visualstudio.com/ (Sviluppo in C# alternativo e molto più leggero rispetto a Visual Studio)
+3. Come installarlo in unity https://youtu.be/kCsDdT8vApo
+4. Blender https://www.blender.org/
+
+
+
 ## Video utili
 
 Playlist sweethome monnalisa:
