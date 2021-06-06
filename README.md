@@ -1,4 +1,4 @@
-# udonsharp
+# udonsharp (http://alisl.org/udonlinks)
 
 Pubblico qui quanto è necessario per utilizzare Udon# per sviluppare per VRChat.
 VRChat è il mondo virtuale che ho rilevato essere più flessibile per la generazione di contenuti, potendo inserire in maniera abbastanza libera
@@ -40,9 +40,12 @@ Attualmente (Giugno 2021) la versione utilizzata è 2018.4.20f1
 ## Links e Tool utili
 
 1. Assolutamente essenziale elenco di risorse per Udon (http://alisl.org/udonlinks) Link per esteso: https://docs.google.com/spreadsheets/d/e/2PACX-1vTP-eIkYLZh7pDhpO-untxy1zbuoiqdzVP2z5-vg_9ijBW7k8ZC9VP6cVL-ct5yKrySPBPJ6V2ymlWS/pubhtml#
-2. Visual Studio Code https://code.visualstudio.com/ (Sviluppo in C# alternativo e molto più leggero rispetto a Visual Studio)
-3. Come installarlo in unity https://youtu.be/kCsDdT8vApo
-4. Blender https://www.blender.org/
+2. Forum udon https://ask.vrchat.com/c/udon/5
+3. Link wiki interessante http://vrchat.wikidot.com/worlds:home
+4. Marketplace con molte cose gratuite https://booth.pm/en/search/udonsharp
+5. Visual Studio Code https://code.visualstudio.com/ (Sviluppo in C# alternativo e molto più leggero rispetto a Visual Studio)
+6. Come installarlo in unity https://youtu.be/kCsDdT8vApo
+7. Blender https://www.blender.org/
 
 
 
