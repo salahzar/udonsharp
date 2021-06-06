@@ -9,17 +9,17 @@ Il corso su google classroom ha codice bu3b7o2
 Il gruppo facebook di riferimento è Edu3d VR (https://www.facebook.com/groups/edu3dvr)
 Gli incontri si svolgono sul server discord della community VRChat Italia
 
-| #  | data  | video  |
-|---|---|---|
-| Incontro 1 | 21 Aprile 2021  | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
-| Incontro 2 | 28 Aprile 2021  | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
-| Incontro 3 | 5 Maggio 2021  | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
-| Incontro 4 | 19 Maggio 2021  | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
-| Incontro 5 | 26 Maggio 2021  | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
-| Incontro 6 |   |   |
-| Incontro 7 |   |  |
-| Incontro 8 |   | |
-| Incontro 9 |   | |
+| #  | data  | argomenti | registrazione  |
+|---|---|---|---|
+| Incontro 1 | 21 Aprile 2021  | | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
+| Incontro 2 | 28 Aprile 2021  | |[![Registrazione](https://img.youtube.com/vi/UD1wC-NQzuo/1.jpg)](https://www.youtube.com/watch?v=UD1wC-NQzuo)   |
+| Incontro 3 | 5 Maggio 2021  | |[![Registrazione](https://img.youtube.com/vi/Q42haZILqvw/1.jpg)](https://www.youtube.com/watch?v=Q42haZILqvw)   |
+| Incontro 4 | 19 Maggio 2021  | |[![Registrazione](https://img.youtube.com/vi/K_apSB5Utsw/1.jpg)](https://www.youtube.com/watch?v=K_apSB5Utsw)   |
+| Incontro 5 | 26 Maggio 2021  | |[![Registrazione](https://img.youtube.com/vi/FnuctALbJtE/1.jpg)](https://www.youtube.com/watch?v=FnuctALbJtE)   |
+| Incontro 6 |   |   ||
+| Incontro 7 |   |  ||
+| Incontro 8 |   | ||
+| Incontro 9 |   | ||
 
 
 ## Versione Unity Unityhub
