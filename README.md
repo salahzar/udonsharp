@@ -46,6 +46,7 @@ Attualmente (Giugno 2021) la versione utilizzata è 2018.4.20f1
 5. Visual Studio Code https://code.visualstudio.com/ (Sviluppo in C# alternativo e molto più leggero rispetto a Visual Studio)
 6. Come installarlo in unity https://youtu.be/kCsDdT8vApo
 7. Blender https://www.blender.org/
+8. https://github.com/madjin/awesome-vrchat
 
 
 
