@@ -5,6 +5,9 @@ VRChat è il mondo virtuale che ho rilevato essere più flessibile per la genera
 contenuti usando una PipeLine tutto sommato semplice: Blender -> Unity -> VRChat
 
 # le cartelle indicano dei progetti già utilizzabili con rispettivi script ed eventuali prefab
+Il corso su google classroom ha codice bu3b7o2
+Il gruppo facebook di riferimento è Edu3d VR (https://www.facebook.com/groups/edu3dvr)
+Gli incontri si svolgono sul server discord della community VRChat Italia
 
 * Lezione 1 21 Aprile 2021
 * Lezione 2 28 Aprile 2021
