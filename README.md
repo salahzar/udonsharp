@@ -11,7 +11,7 @@ Gli incontri si svolgono sul server discord della community VRChat Italia
 
 | #  | data  | argomenti | registrazione  |
 |---|---|---|---|
-| Incontro 1 | 21 Aprile 2021  | Installare Unity 2018.4.20f1 e prime basi | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
+| Incontro 1 | 21 Aprile 2021  | Installare Unity 2018.4.20f1 e prime basi, esempio player semplice | [![Registrazione](https://img.youtube.com/vi/ay-lF2CnAy8/1.jpg)](https://www.youtube.com/watch?v=ay-lF2CnAy8)   |
 | Incontro 2 | 28 Aprile 2021  | |[![Registrazione](https://img.youtube.com/vi/UD1wC-NQzuo/1.jpg)](https://www.youtube.com/watch?v=UD1wC-NQzuo)   |
 | Incontro 3 | 5 Maggio 2021  | |[![Registrazione](https://img.youtube.com/vi/Q42haZILqvw/1.jpg)](https://www.youtube.com/watch?v=Q42haZILqvw)   |
 | Incontro 4 | 19 Maggio 2021  | |[![Registrazione](https://img.youtube.com/vi/K_apSB5Utsw/1.jpg)](https://www.youtube.com/watch?v=K_apSB5Utsw)   |
