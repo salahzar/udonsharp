@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
+  m_Name: UdonGraph_clickDebug
+  m_EditorClassIdentifier: 
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 8793d30028a5b0c429bc2d46a6a1edfd,
+    type: 2}
+  udonAssembly: ".data_start\r\n\r\n    .export Message\r\n    \r\n    message_0:
+    %SystemObject, null\r\n    Message: %SystemString, null\r\n\r\n.data_end\r\n\r\n.code_start\r\n\r\n
+    \   .export _interact\r\n    \r\n    _interact:\r\n    \r\n        PUSH, Message\r\n
+    \       PUSH, message_0\r\n        COPY\r\n        PUSH, message_0\r\n        EXTERN,
+    \"UnityEngineDebug.__Log__SystemObject__SystemVoid\"\r\n        JUMP, 0xFFFFFFFC\r\n
+    \   \r\n\r\n.code_end\r\n"
+  assemblyError: 
+  graphData:
+    name: 
+    description: 
+    nodes:
+    - fullName: Event_Interact
+      uid: ac3940c1-6c96-4b23-be39-56597b397e42
+      position: {x: 235, y: 46.679996}
+      nodeUIDs: []
+      flowUIDs:
+      - 6b17d7ea-9121-4332-aab5-5be4cdc75085
+      nodeValues: []
+    - fullName: UnityEngineDebug.__Log__SystemObject__SystemVoid
+      uid: 6b17d7ea-9121-4332-aab5-5be4cdc75085
+      position: {x: 388, y: 99.67999}
+      nodeUIDs:
+      - 5e276910-b98d-4e5d-a1cf-aa0a62add6d9|0
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: Variable_SystemString
+      uid: c1774729-62ca-4679-bff6-bfac0aeeb096
+      position: {x: 0, y: 0}
+      nodeUIDs:
+      - 
+      - 
+      - 
+      - 
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Message
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|True
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|False
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
+    - fullName: Get_Variable
+      uid: 5e276910-b98d-4e5d-a1cf-aa0a62add6d9
+      position: {x: 162, y: 295.68}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|c1774729-62ca-4679-bff6-bfac0aeeb096
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    updateOrder: 0
+  graphElementData: []
+  viewTransform:
+    position: {x: 0, y: 22.080004}
+    scale: 1
+  version: 1.0.0
+  showAssembly: 1
