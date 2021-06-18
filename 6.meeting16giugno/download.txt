@@ -1,4 +1,10 @@
-download alisl.org/udon
+scaricate alisl.org/udon
 
-with a full template and the three scripts
+con il template e alcuni esempi di script per
+
+* far apparire sparire oggetti
+* per il teleport
+* per far partire oppure spegnere la musica
+
+
 
