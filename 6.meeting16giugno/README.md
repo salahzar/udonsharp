@@ -18,4 +18,4 @@ In questa cartella i seguenti script
 
 * Script di volo
   ![](GraphFly.jpg)
-  [](../5.meeting26maggio%20building/FlyingObject.cs)
+  [FlyingObject.cs](../5.meeting26maggio%20building/FlyingObject.cs)
