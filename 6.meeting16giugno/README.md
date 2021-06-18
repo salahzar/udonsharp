@@ -15,3 +15,7 @@ In questa cartella i seguenti script
 * Script per rotazione porta
 ![](GraphRotazione.jpg)
 [U_TriggerRotazione.cs](U_TriggerRotazione.cs)
+
+* Script di volo
+  ![](GraphFly.jpg)
+  [](../5.meeting26maggio%20building/FlyingObject.cs)
