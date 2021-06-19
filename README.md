@@ -17,7 +17,7 @@ Gli incontri si svolgono sul server discord della community VRChat Italia
 | Incontro 4 | 19 Maggio 2021  | Programmazione visuale con Udongraph|[![Registrazione](https://img.youtube.com/vi/K_apSB5Utsw/1.jpg)](https://www.youtube.com/watch?v=K_apSB5Utsw)   |
 | Incontro 5 | 26 Maggio 2021  | Programmazione con U# esempio di import building e script per volare in VRChat|[![Registrazione](https://img.youtube.com/vi/FnuctALbJtE/1.jpg)](https://www.youtube.com/watch?v=FnuctALbJtE)   |
 | Incontro 6 | 16 Giugno 2021  | Kit con script per Suono/Teleport/NascondiRivela  |[Registrazione](https://img.youtube.com/vi/FwLpxXRppwY/1.jpg)](https://www.youtube.com/watch?v=FwLpxXRppwY)|
-| Incontro 7 |   |  ||
+| Incontro 7 | 23 Giugno 2021  | Tastiera e altri prefab  ||
 | Incontro 8 |   | ||
 | Incontro 9 |   | ||
 
